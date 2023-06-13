@@ -78,4 +78,7 @@ Now you have successfully resolved a conflict using Git, GitHub, and pull reques
 
 YES!!
 
+<<<<<<< HEAD
+=======
 HAHAHAHA main branch
+>>>>>>> main
